@@ -1,0 +1,8 @@
+streamlit>=1.32
+torch>=2.0
+timm>=0.9
+opencv-python-headless>=4.8
+grad-cam>=1.5
+scipy>=1.10
+numpy>=1.24
+Pillow>=10.0
