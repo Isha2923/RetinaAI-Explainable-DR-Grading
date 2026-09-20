@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="assets/logo.png" alt="RetinaAI logo" width="220"/>
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -143,6 +145,9 @@ aptos-hybrid-dr-grading/
 ├── APTOS_Hybrid.ipynb          # Main training notebook (Google Colab)
 │
 ├── README.md
+│
+├── assets/
+│   └── logo.png                 # Project logo
 │
 └── outputs/                    # Saved during training
     ├── best_regression_model.pth
